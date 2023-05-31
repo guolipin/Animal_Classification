@@ -12,7 +12,7 @@ We used the [Animal dataset](https://cloudstor.aarnet.edu.au/plus/s/cZYtNAeVhWD6
 ### 😻 Achievement
 | Version | Accuracy | Efficiency |
 | :---: | :---:|:---:|
-|[best model]()|98.28%🚀 |0.43G〽️|
-|[base model]()|37.53%| 0.69G |
+|[best model](https://github.com/guolipin/animal_classification/blob/main/Animal_Classification_Best_Model.ipynb)|98.28%🚀 |0.43G〽️|
+|[base model](https://github.com/guolipin/animal_classification/blob/main/Animal_Classification_Base_Model.ipynb)|37.53%| 0.69G |
 
-To understand how to achieve this perfromance, please refer to [report]().
+To understand how to achieve this perfromance, please refer to [report](https://github.com/guolipin/animal_classification/blob/main/Animal_Classification_Report.pdf).
